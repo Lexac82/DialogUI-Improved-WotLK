@@ -3,7 +3,7 @@
 Immersive quest / gossip / book dialog frames for WoW 3.3.5a. Replaces the
 default Blizzard frames with parchment-styled panels.
 
-Fork of [Bset's WotLK port](https://github.com/ghbset/DialogUI-WotLK).
+Fork of [Stefan2102's WotLK port](https://github.com/Stefan2102/DialogUI-WotLK)).
 
 ## Differences from the original port
 
